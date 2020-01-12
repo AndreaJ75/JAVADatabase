@@ -49,8 +49,8 @@ public class Main {
 
             String URL = "jdbc:postgresql://localhost:5432/postgres";
 
-            try (Connection conn = DriverManager.getConnection(URL, "change", "change")) {
-
+            try (Connection conn = DriverManager.getConnection(URL, "db-Andy", "Koala75")) {
+                //try (Connection conn = DriverManager.getConnection(URL, "change", "change")) {
                 // *********************************************************************
                 // CREATE :     Creation des cartes en base de donnees - version JDBC  *
                 //**********************************************************************

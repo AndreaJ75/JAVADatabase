@@ -5,7 +5,7 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <datasource-mapping>
-          <factory-entry name="demo-jpa-1" value="58b51dd0-fc1f-4743-bf29-22354cc89737" />
+          <factory-entry name="demo-jpa-1" value="49a00f2f-6ca9-4592-80e4-3ae720faa5ec" />
         </datasource-mapping>
         <naming-strategy-map />
         <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />

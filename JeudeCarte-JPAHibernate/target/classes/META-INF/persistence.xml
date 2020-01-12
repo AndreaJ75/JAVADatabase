@@ -6,14 +6,15 @@
     <persistence-unit name="demo-jpa-1" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         <!-- Below are Objects which are required to persist on the CardGame Database tables -->
-        <class>co.bnppf.df.Upskilling.cardgame.model.Card</class>
+        <!-- <class>Card</class> -->
        <!-- <class>co.bnppf.df.Upskilling.cardgame.model.CardPlayer</class> -->
        <!-- <class>co.bnppf.df.Upskilling.cardgame.model.Creature</class> -->
        <!-- <class>co.bnppf.df.Upskilling.cardgame.model.Curse</class> -->
-        <class>co.bnppf.df.Upskilling.cardgame.model.Field</class>
+        <class>co.bnppf.df.upskilling.cardgame.model.Field</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
 
+            <!-- On utilise en réalité l'URL fourni dans l'écran de config. du TRT MAIN dans ENV -->
             <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost/postgres" /> <!-- !!! -->
             <property name="javax.persistence.jdbc.user" value="****" /> <!-- !!! -->
             <property name="javax.persistence.jdbc.password" value="****" /> <!-- !!! -->

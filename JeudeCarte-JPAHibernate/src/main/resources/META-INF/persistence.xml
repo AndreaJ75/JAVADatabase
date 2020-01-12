@@ -10,7 +10,7 @@
        <!-- <class>co.bnppf.df.Upskilling.cardgame.model.CardPlayer</class> -->
        <!-- <class>co.bnppf.df.Upskilling.cardgame.model.Creature</class> -->
        <!-- <class>co.bnppf.df.Upskilling.cardgame.model.Curse</class> -->
-        <class>co.bnppf.df.Upskilling.cardgame.model.Field</class>
+        <class>co.bnppf.df.upskilling.cardgame.model.Field</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
 
