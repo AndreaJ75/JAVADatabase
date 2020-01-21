@@ -29,8 +29,11 @@ public class CardController {
         return ResponseEntity.ok(cardrepository.findById((int) xVal.nextInt(15)).get());
 
 
+<<<<<<< HEAD
     }
 
+=======
+>>>>>>> de1f5c6a8b6492314f2ccf6bfccf1a2a1b8738e0
     @GetMapping("/cardAll")
     public ResponseEntity<List<Card>> printAll() {
         return ResponseEntity.ok(cardList);
@@ -39,6 +42,7 @@ public class CardController {
     @PostMapping("/createCardCreature")
     public ResponseEntity<Card> createCard(@RequestBody Creature card){
         System.out.println("Creation de carte : " + card.getName());
+        // TODO insertion en bdd
         return ResponseEntity.ok(card);
     }
 
