@@ -1,9 +1,20 @@
 package com.bnppf.df.cardgame.springtype.model;
 
+import javax.persistence.*;
+
+@Entity
+@Table(name="creature")
 public class Creature extends Card {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "creature_seq")
+    @Column(name="id")
     private Integer id;
+    @Column(name="name")
     private String name;
+    @Column(name="damagePointsNbr")
     private Integer damagePointsNbr;
+    @Column(name="lifePointNbr")
     private Integer lifePointNbr;
 
 

@@ -2,54 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d93b8492-1c4b-4b0a-bd32-e887e6ed2ef7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/JAVADatabase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/IDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CreatureDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CreatureDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CsvReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CsvReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/FieldDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/FieldDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/META-INF/JeuDeCarteDB.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/MainOld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/MainOld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/repository/Cardrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/repository/Creaturerepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/repository/Curserepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/repository/Fieldrepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAPHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAPHibernate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/CsvReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/CsvReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/DAOall/CreatureDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/CreatureDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/DAOall/FieldDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/FieldDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/CardPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/CardPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/CardType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Curse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Curse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/FieldColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/FieldColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Field.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Field.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JAPHibernate.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/bnppf/df/Upskilling/cardgame/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/bnppf/df/Upskilling/cardgame/model/CardType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/bnppf/df/Upskilling/cardgame/model/FieldColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAPHibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/controller/CardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/controller/CardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Curse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Curse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/FieldColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/model/FieldColor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +116,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576856711538" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CardGame_JDBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CardGame-SpringBootType" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -242,6 +206,7 @@
       <workItem from="1576847228202" duration="9076000" />
       <workItem from="1578156655898" duration="12587000" />
       <workItem from="1578237328106" duration="207000" />
+      <workItem from="1579632786646" duration="709000" />
     </task>
     <servers />
   </component>

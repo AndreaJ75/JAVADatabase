@@ -1,17 +1,44 @@
 package com.bnppf.df.cardgame.springtype.model;
 
+import javax.persistence.*;
+
+@MappedSuperclass
+//@Table(name="card")
 public abstract class Card {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "card_seq")
+    @Column(name = "id")
+    private Integer id;
+    @Enumerated(EnumType.STRING)
+    @Column(name="cardType")
     private CardType cardType;
+    @Column(name="cost")
     private Integer cost;
 
 
     public Card() {
     }
 
+    public Card(Integer id, CardType cardType, Integer cost) {
+        this.id = id;
+        this.cardType = cardType;
+        this.cost = cost;
+//        this.field = field;
+    }
+
     public Card(CardType cardType, Integer cost) {
         this.cardType = cardType;
         this.cost = cost;
+//        this.field = field;
+    }
 
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     public CardType getCardType(){
