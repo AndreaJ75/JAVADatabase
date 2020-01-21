@@ -2,55 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d93b8492-1c4b-4b0a-bd32-e887e6ed2ef7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/JAVADatabase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/IDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/dataSources/7ad8d724-aa68-4650-8a39-603652e48384/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CreatureDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CreatureDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CsvReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/CsvReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/FieldDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/FieldDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/META-INF/JeuDeCarteDB.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/MainOld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame_JDBC/target/classes/MainOld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAPHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAPHibernate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/CsvReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/CsvReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/DAOall/CreatureDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/CreatureDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/DAOall/FieldDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/FieldDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/CardPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/CardPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/CardType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Curse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Curse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/bnppf/df/Upskilling/cardgame/model/FieldColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/FieldColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Field.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Field.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JAPHibernate.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/bnppf/df/Upskilling/cardgame/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/bnppf/df/Upskilling/cardgame/model/CardType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/co/bnppf/df/Upskilling/cardgame/model/FieldColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAPHibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/controller/CardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/java/com/bnppf/df/cardgame/springtype/controller/CardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CardGame-SpringBootType/src/main/resources/application.properties" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +69,28 @@
     </expand>
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="12" lean-forward="true" selection-start-line="10" selection-end-line="22" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -143,8 +123,93 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="63" />
+    <option name="y" value="57" />
+    <option name="width" value="1347" />
+    <option name="height" value="696" />
+  </component>
   <component name="ProjectId" id="1VwGHJlellkvGsKkcC7HJSMBjJJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cardgame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cardgame" type="462c0819:PsiDirectoryNode" />
+              <item name="daoall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cardgame" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAPHibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardGame-JPAHibernateType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -152,7 +217,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576856711538" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CardGame_JDBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -242,8 +307,46 @@
       <workItem from="1576847228202" duration="9076000" />
       <workItem from="1578156655898" duration="12587000" />
       <workItem from="1578237328106" duration="207000" />
+      <workItem from="1579620098020" duration="873000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="873000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="63" y="57" width="1347" height="696" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980843" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -254,8 +357,28 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -267,20 +390,39 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/Main.java</url>
           <line>84</line>
+          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/Main.java</url>
           <line>85</line>
+          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/daoall/Dao.java</url>
           <line>27</line>
+          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="10" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/bnppf/df/upskilling/cardgame/model/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

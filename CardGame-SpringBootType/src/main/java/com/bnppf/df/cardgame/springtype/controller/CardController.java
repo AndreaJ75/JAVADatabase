@@ -18,7 +18,6 @@ public class CardController {
         });
     }
 
-
     @GetMapping("/cardAll")
     public ResponseEntity<List<Card>> printAll() {
         return ResponseEntity.ok(cardList);
@@ -27,6 +26,7 @@ public class CardController {
     @PostMapping("/createCardCreature")
     public ResponseEntity<Card> createCard(@RequestBody Creature card){
         System.out.println("Creation de carte : " + card.getName());
+        // TODO insertion en bdd
         return ResponseEntity.ok(card);
     }
 
