@@ -27,13 +27,8 @@ public class CardController {
         Random xVal = new Random();
         System.out.println("Lecture de carte : " + xVal);
         return ResponseEntity.ok(cardrepository.findById((int) xVal.nextInt(15)).get());
-
-
-<<<<<<< HEAD
     }
 
-=======
->>>>>>> de1f5c6a8b6492314f2ccf6bfccf1a2a1b8738e0
     @GetMapping("/cardAll")
     public ResponseEntity<List<Card>> printAll() {
         return ResponseEntity.ok(cardList);
